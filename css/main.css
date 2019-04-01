@@ -2,6 +2,14 @@ body,html{
     height: 100%;
     margin:0 auto;
 }   
+.link{
+    color:blueviolet;
+    padding:10px 10px;
+}
+.link:hover{
+    color:white;
+    background: grey;
+}
 .section1{
     background: url(../img/wallpaper.jpg);
     width: 100%;
@@ -9,16 +17,32 @@ body,html{
     text-align: center;
 }
 .judul{
-    font-family: monospace;
-    font-size: 70px;
+    font-family: bebas kai;
+    font-size: 90px;
     color: darkgoldenrod;
 }
 .sub-judul{
-    font-family: Condensed;
+    font-family: bebas kai;
     font-size: 60px;
-    color:greenyellow;
+    color: whitesmoke;
+    margin:auto;
 }
 .section2{
     background: #3b6be6;
     padding:50px 0px;
+}
+.section3{
+    background: white;
+    padding:200px 0px;
+    font-family: bebas kai;
+}
+.col-abuabu{
+    background: grey;
+    text-align: center;
+    font-family: bebas kai;    
+}
+.col-blue{
+    background: green;
+    text-align: center;
+    font-family: bebas kai;
 }
