@@ -18,31 +18,40 @@ body,html{
 }
 .judul{
     font-family: bebas kai;
-    font-size: 90px;
-    color: darkgoldenrod;
+    font-size: 70px;
+    color: whitesmoke;
 }
 .sub-judul{
     font-family: bebas kai;
-    font-size: 60px;
+    font-size: 30px;
     color: whitesmoke;
     margin:auto;
 }
 .section2{
-    background: #3b6be6;
+    background: #000370;
     padding:50px 0px;
+    text-align: justify;
+    font-size: 30px
 }
 .section3{
-    background: white;
-    padding:200px 0px;
+    background: #00013c;
+    padding:50px 0px;
     font-family: bebas kai;
+    text-align: justify;
 }
-.col-abuabu{
-    background: grey;
-    text-align: center;
-    font-family: bebas kai;    
+.col-warna{
+  background:beige;  
 }
-.col-blue{
-    background: green;
-    text-align: center;
+.col-warna2{
+  background:#cfd0e2;
+}
+.section4{
+    background: #000370;
+    padding:100px 0px;
     font-family: bebas kai;
+    color:black;
+    text-align: justify;
+}
+
+
 }
